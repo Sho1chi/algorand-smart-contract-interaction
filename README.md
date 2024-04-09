@@ -104,3 +104,5 @@ func queryContractInfo(algodClient *algod.Client, userAccount account.Account, c
 	// Implement contract query logic here
 	return nil
 }
+
+algorand-smart-contract-interaction
