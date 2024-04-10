@@ -105,4 +105,8 @@ func queryContractInfo(algodClient *algod.Client, userAccount account.Account, c
 	return nil
 }
 
-algorand-smart-contract-interaction
+algorand-smart-contract-interaction 
+"github.com/algorand/go-algorand-sdk/account"
+	"github.com/algorand/go-algorand-sdk/algod"
+	"github.com/algorand/go-algorand-sdk/client/algod/models"
+	"github.com/algorand/go-algorand-sdk/crypto"
